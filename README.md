@@ -18,4 +18,8 @@ hotfix : master 브랜치로 배포를 했는데 버그가 생겼을 떄 긴급 
 
 출처: https://ux.stories.pe.kr/183
 
-b1
+b1 - 상품주문
+
+
+수행결과
+![image](https://user-images.githubusercontent.com/45285712/140469070-e4c94bd1-2a74-4c27-9961-415cbeae47a3.png)
