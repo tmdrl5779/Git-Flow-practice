@@ -13,4 +13,7 @@ release : 배포를 위해 master 브랜치로 보내기 전에 먼저 QA(품질
 hotfix : master 브랜치로 배포를 했는데 버그가 생겼을 떄 긴급 수정하는 브랜치
 
 
+![image](https://user-images.githubusercontent.com/45285712/140464263-c79edc98-4c9b-4932-a880-11d79094e3df.png)
+
+
 출처: https://ux.stories.pe.kr/183
